@@ -720,10 +720,10 @@ styles.css
 ```
 
 ## Output:
-![output](./out 1.jpg)
-![output](./out 2.jpg)
-![output](./out 3.jpg)
-![output](./out 4.jpg)
+![output](./out1.png)
+![output](./out2.png)
+![output](./out3.png)
+![output](./out4.png)
 
 ## HTML Validator
 ![output](./valid.png)
